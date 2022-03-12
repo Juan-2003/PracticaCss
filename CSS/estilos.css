@@ -1,0 +1,1009 @@
+html{
+    background: #fff;
+}
+h1{
+    color: #153670;
+    font-family: system-ui;
+    font-size: 60px;
+    margin-left: 50px;
+    margin-top: 130px;
+  
+}
+
+h3{
+    background: #ccc;
+    background: radial-gradient(#0e24c7, #0c26eb); 
+    font-family: system-ui;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 50px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;   
+}
+
+#triangulo{
+    width: 150px;
+}
+
+/* ------------ NAV ---------- */
+#nav{
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+    font-size: 17px;
+    margin-top: -130px;
+    margin-right: 125px;
+    word-spacing: 80px;
+    
+}
+
+#Hoax, #Decoration, #Education, #News, #Regulation, #Database{
+    text-decoration: none;
+    color: #888;
+    
+}
+
+#Hoax{
+    word-spacing: 0px;
+    color: white;
+    background-color:rgba(56,88,214,255);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+aside{
+    float: right;
+    text-decoration: none;
+
+}
+
+#doc{
+    width: 700px;
+    margin-right: 0px;
+    margin-top: -550px;
+    padding-top: 170px;
+    background: #e8f4fc;
+    position:static;
+    
+ 
+
+}
+/* --------------- Article ---------------*/
+
+#desc{
+    font-weight: 500;
+    font-family: system-ui;
+    word-spacing: 2px;
+    color: #9c9c9c;
+    margin-left: 60px;
+    margin-top: -20px
+
+}
+
+.icon1{
+    display: inline;
+    color: #485875;
+    font-size: 15px;
+    font-family: system-ui;
+    font-weight: bold;
+    
+  
+}
+
+#icon1{
+  margin-left: -170px;
+}
+
+
+#shield{
+    width: 50px;
+    float: left;
+    margin-top: -10px;
+    margin-left: 70px;
+}
+
+.icon2{
+    margin-left: -10px;
+ 
+}
+
+#star{
+    width: 40px;
+    display: block;
+    float: left;
+    margin-top: -10px;
+    margin-left: 130px;
+}
+
+#icon2{
+    display: inline;
+    color: #485875;
+    font-size: 15px;
+    font-family: system-ui;
+    font-weight: bold;
+    margin-left: 67px;
+}
+
+.reloj{
+    width: 30px;
+    float: left;
+    padding-top: 200px;
+    margin-left: -220px;
+    display: inline;
+
+    
+}
+
+.schedule{
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: bold;
+    position:absolute;
+    display: inline;
+    margin-top: -2px;
+  
+
+}
+
+.a-schedule{
+    text-decoration: none;
+    color: #164375;
+}
+
+.a-schedule:hover{
+    color: #0e24c7;
+}
+#aztra, #moderna, #pfizer, #sinovac{
+    float: left;
+    margin-top: 400px;
+    display: inline;
+}
+
+#aztra{
+    float: left;
+    margin-left: -220px;
+}
+
+#sinovac{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+#pfizer{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+#moderna{
+    margin-top: 140px;
+    margin-left: 50px;
+
+}
+
+/*--------------------------*/
+
+h2{
+    color: #153670;
+    font-family: system-ui;
+    font-size: 40px;
+    margin-top: 600px;
+    margin-left: 60px;
+}
+
+#desc2{
+    font-weight: 500;
+    font-family: system-ui;
+    word-spacing: 2px;
+    color: #585863;
+    margin-left: 70px;
+    margin-top: -20px
+
+}
+
+/*------------ Minimize the spread of viruses ---------*/
+
+.imgMin{
+   position:absolute;
+   top: -55;
+   left: 0;
+   border-radius: 50%;
+
+}
+
+.min{
+    color: #153670;
+    font-size: 20px;
+    font-weight: 650;
+    font-family: system-ui;
+    position: relative;
+    top: 100;
+    margin-left: 100px;
+}
+
+.minimize{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    color: #7a7a7a;
+    position:absolute;
+    top: 60;
+    left: 0;
+    line-height: 18px;
+    
+}
+
+/*------------ Forming antibodies ---------*/
+
+
+
+.forming{
+    float: right;
+    position: relative;
+    right: 850;
+    top: 5;
+    color: #153670;
+    font-size: 22px;
+    font-weight:650;
+    font-family: system-ui;
+    
+}
+
+.shiled2{
+    position: absolute;
+    top:-35;
+}
+
+.proven{
+    position:absolute;
+}
+
+#proven{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    color: #7a7a7a;
+    margin-right: -200px;
+    top: 85;
+    line-height: 18px;
+
+}
+
+
+/*------------ Protecting people nearby ---------*/
+
+
+.protecting{
+    position: relative;
+    float: right;
+    right: 430px;
+    top: 5;
+    color: #153670;
+    font-size: 22px;
+    font-weight: 650;
+    font-family: system-ui;
+    
+}
+
+.people{
+    position: absolute;
+    top: -30;
+}
+
+.benefits{
+    position: absolute;
+    color: #7a7a7a;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-right: -200px;
+    top: 85;
+}
+
+/*------------ Creating group immunity ---------*/
+
+.creating{
+    position:relative;
+    float: right;
+    color: #153670;
+    font-size: 22px;
+    font-weight: 650;
+    font-family: system-ui;
+    top:5;
+}
+
+.graphic{
+    position: absolute;
+    top:-30;
+}
+
+.immunity{
+    position: absolute;
+    color: #7a7a7a;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-right: -200px;
+    top: 85;
+}
+
+/* -------------------------------- */
+
+#h23{
+
+    text-align: right;
+    margin-top: 370px;
+    margin-right: 250px;
+   
+}
+
+#desc3{
+    float: right;
+    text-align:justify;
+    font-weight: 500;
+    font-family: system-ui;
+    word-spacing: 2px;
+    color: #585863;
+    margin-right: 255px;
+    margin-top: -10px;
+    word-spacing: 10px;
+    
+}
+
+
+.paciente{
+    position:absolute;
+    left: 0;
+    top: 1600;
+    width: 550px ;
+  
+
+
+}
+
+/*----------- Avoid alcoholic beverages -----------------*/
+
+#shield3{
+    padding-top: 170px;
+    margin-left: 670px;
+    position: absolute;
+    width: 30;
+}
+
+.horizontal{
+    padding-top: 155px;
+    margin-left: 670px;
+    list-style: none;
+    justify-content: space-around;
+    font-family: system-ui;
+    word-spacing: 2px;
+    font-weight: 600;
+    font-size: 17 ;
+    color: #18316b;
+ 
+    
+}
+
+.horizontal > li > a{
+    display: block;
+    text-decoration: none;
+}
+
+.vertical{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 400px;
+   
+    font-family: system-ui;
+    font-size: 13px;
+    word-spacing: 2px;
+    color: #b8b8b8;
+
+}
+
+.horizontal li:hover .vertical{
+    display: block;
+
+}
+
+/*--------- Avoid Stress---------------*/
+#cuadrado{
+    padding-top: 55px;
+    margin-left: 670px;
+    position: absolute;
+    width: 30;
+}
+
+.horizontal2{
+    padding-top: 40px;
+    margin-left: 670px;
+    list-style: none;
+    justify-content: space-around;
+    font-family: system-ui;
+    word-spacing: 2px;
+    font-weight: 600;
+    font-size: 17 ;
+    color: #18316b;
+ 
+    
+}
+
+.horizontal2 > li > a{
+    display: block;
+    text-decoration: none;
+}
+
+.vertical2{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 400px;
+   
+    font-family: system-ui;
+    font-size: 13px;
+    word-spacing: 2px;
+    color: #b8b8b8;
+
+}
+
+.horizontal2 li:hover .vertical2{
+    display: block;
+
+}
+
+/*----------- Eat helthy food ----------*/
+#healthy{
+    padding-top: 55px;
+    margin-left: 672px;
+    position: absolute;
+    width: 30;
+}
+
+.horizontal3{
+    padding-top: 40px;
+    margin-left: 670px;
+    list-style: none;
+    justify-content: space-around;
+    font-family: system-ui;
+    word-spacing: 2px;
+    font-weight: 600;
+    font-size: 17 ;
+    color: #18316b;
+ 
+    
+}
+
+.horizontal3 > li > a{
+    display: block;
+    text-decoration: none;
+}
+
+.vertical3{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 400px;
+   
+    font-family: system-ui;
+    font-size: 13px;
+    word-spacing: 2px;
+    color: #b8b8b8;
+
+}
+
+.horizontal3 li:hover .vertical3{
+    display: block;
+
+}
+
+/*----------- Sleep ----------------*/
+
+#cuadrado2{
+    padding-top: 55px;
+    margin-left: 672px;
+    position: absolute;
+    width: 30;
+}
+
+.horizontal4{
+    padding-top: 40px;
+    margin-left: 670px;
+    list-style: none;
+    justify-content: space-around;
+    font-family: system-ui;
+    word-spacing: 2px;
+    font-weight: 600;
+    font-size: 17 ;
+    color: #18316b;
+ 
+    
+}
+
+.horizontal4 > li > a{
+    display: block;
+    text-decoration: none;
+}
+
+.vertical4{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 400px;
+   
+    font-family: system-ui;
+    font-size: 13px;
+    word-spacing: 2px;
+    color: #b8b8b8;
+
+}
+
+.horizontal4 li:hover .vertical4{
+    display: block;
+
+}
+
+/*-------- Exercise -------------*/
+
+#corazon{
+    padding-top: 55px;
+    margin-left: 672px;
+    position: absolute;
+    width: 30;
+}
+
+.horizontal5{
+    padding-top: 40px;
+    margin-left: 670px;
+    list-style: none;
+    justify-content: space-around;
+    font-family: system-ui;
+    word-spacing: 2px;
+    font-weight: 600;
+    font-size: 17 ;
+    color: #18316b;
+ 
+    
+}
+
+.horizontal5 > li > a{
+    display: block;
+    text-decoration: none;
+}
+
+.vertical5{
+    position: absolute;
+    display: none;
+    list-style: none;
+    width: 400px;
+   
+    font-family: system-ui;
+    font-size: 13px;
+    word-spacing: 2px;
+    color: #b8b8b8;
+
+}
+
+.horizontal5 li:hover .vertical5{
+    display: block;
+
+}
+
+
+
+/*------------------------*/
+#h24{
+    color: #153670;
+    font-family: system-ui;
+    font-size: 40px;
+    margin-top: 180px;
+    margin-left: 60px;
+}
+
+#desc4{
+    font-weight: 500;
+    font-family: system-ui;
+    word-spacing: 2px;
+    color: #9c9c9c;
+    margin-left: 60px;
+    margin-top: -5px
+}
+
+#doctor{
+    margin-top: -65px;
+    width: 590px;
+    height: 550;
+
+}
+
+/*--------------------------*/
+
+.Numero{
+    position:relative;
+    float:left;
+    color: #153670;
+    font-size: 22px;
+    font-weight: 650;
+    font-family: system-ui;
+    top:5;
+}
+
+.Call{
+    position: absolute;
+    color: RGB(61, 87, 133);
+    font-size: 18px;
+    font-weight: 500;
+    font-family: system-ui;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-left: 200px;
+    top: 85;
+}
+
+.num{
+    position: absolute;
+    color: #7a7a7a;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-left: 200px;
+    top: 120px;
+  
+}
+
+.cel{
+    position: absolute;
+    top: 105;
+    left: 140;
+}
+
+.now{
+    float: left;
+    position: relative;
+    background-color: #e8f4fc;
+    padding-top: 2px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    top: 170;
+    left: 140;
+    font-weight: bold;
+    font-family: system-ui;
+    font-size: 17;
+    
+}
+
+.now :hover{
+    color: #000952;
+}
+
+
+.a1{
+    text-decoration: none;
+    color: #0f25d4;
+}
+
+/*-------- Chat -------*/
+
+.Chat{
+  position: relative;
+  float: left;
+  left: 200px;
+  top: 105;
+}
+
+.texto{
+    position: absolute;
+
+}
+
+.chat2{
+    position: absolute;
+    left: 60;
+    top: -15;
+    color: RGB(61, 87, 133);
+    font-size: 18px;
+    font-weight: 500;
+    font-family: system-ui;
+
+}
+
+.num2{
+    position: absolute;
+    top:20;
+    left: 60;
+    color: #7a7a7a;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    line-height: 18px;
+    
+}
+
+.chatNow{
+    position: absolute;
+    margin-left: 385px;
+    margin-top: 170px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 55px;
+    background-color: #e8f4fc;
+    font-weight: bold;
+    font-family: system-ui;
+    font-size: 17;
+}
+
+.chatNow :hover{
+    color: #000952
+}
+
+/*----------------------------------------*/
+
+.video{
+    position: relative;
+    float: left;
+    left: 0px;
+    top: 300;
+
+}
+
+.camara{
+    position: absolute;
+    left: -45;
+}
+
+.videoCall{
+    position: absolute;
+    top: -20;
+    left: 0;
+    bottom: 15;
+    color: RGB(61, 87, 133);
+    font-size: 18px;
+    font-weight: 500;
+    font-family: system-ui;
+}
+
+.num3{
+    position: inherit;
+    top: 15;
+    left: 10;
+    color: #7a7a7a;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    line-height: 18px;
+    
+}
+
+.callNow{
+    position: absolute;
+    top: 3060;
+    left: 145;
+    padding-top: 2px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-family: system-ui;
+    font-size: 17;
+    background-color: #e8f4fc;
+}
+
+.callNow :hover{
+    color: #000952
+}
+
+/*------------------------*/
+.Message{
+    position:absolute;
+    left: 390;
+    top: 2985;
+}
+
+.Men{
+    position: absolute;
+    left: 50;
+    top: -20;
+    color: RGB(61, 87, 133);
+    font-size: 18px;
+    font-weight: 500;
+    font-family: system-ui;
+    
+}
+
+.num4{
+    position: inherit;
+    top: 15;
+    left: 50;
+    color: #7a7a7a;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: system-ui;
+    word-spacing: 2px;
+    line-height: 18px;
+}
+.correo{
+    position:absolute;
+}
+
+.messageNow{
+    position: absolute;
+    top: 3060;
+    left: 390;
+    padding-top: 2px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-family: system-ui;
+    font-size: 17;
+    background-color: #e8f4fc;
+}
+
+.messageNow :hover{
+    color: #000952
+}
+
+/*---------------- Footer --------------------------------------*/
+
+footer{
+    margin-top: 650px;
+}
+
+.fondo{
+    position: relative;
+    width: 1340px;
+    height: 400px;
+    background: #e8f4fc ;
+}
+
+.vaccination{
+    position: absolute;
+    background: #ccc;
+    background: radial-gradient(#0e24c7, #0c26eb); 
+    font-family: system-ui;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 120px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;   
+}
+
+.desc5{
+    position: absolute;
+    font-weight: 500;
+    font-family: system-ui;
+    color: #9c9c9c;
+    margin-left: 120px;
+    margin-top: 100px;
+}
+
+/*---------- About -----------*/
+
+.aboutUs{
+    position:absolute;
+    left: 700;
+    list-style: none;
+    font-size: 20;
+    font-weight: 800;
+    font-family: system-ui;
+    color: #254476;
+    top: 25;
+}
+
+.horizontal-1{
+    list-style: none;
+    font-weight: 500;
+    font-size: 15;
+    color: #9c9c9c;
+    margin-left: -40px;
+    line-height: 3;
+    margin-top: 20;
+}
+
+.a{
+     color: #9c9c9c;
+     text-decoration: none;
+}
+
+.a:hover{
+    color: #000952
+}
+
+/*---------- Company -----------*/
+
+.company{
+    position:absolute;
+    left: 900;
+    top: 26;
+    list-style: none;
+    font-size: 20;
+    font-weight: 800;
+    font-family: system-ui;
+    color: #254476;
+
+}
+
+.horizontal-2{
+    list-style: none;
+    font-weight: 500;
+    font-size: 15;
+    color: #9c9c9c;
+    margin-left: -40px;
+    line-height: 3;
+    margin-top: 20;
+}
+
+/*---------- Support -----------*/
+
+.support{
+    position:absolute;
+    left: 1100;
+    top: 27;
+    list-style: none;
+    font-size: 20;
+    font-weight: 800;
+    font-family: system-ui;
+    color: #254476;
+
+}
+
+.horizontal-3{
+    list-style: none;
+    font-weight: 500;
+    font-size: 15;
+    color: #9c9c9c;
+    margin-left: -40px;
+    line-height: 3;
+    margin-top: 20;
+}
+
+/* ----- Derechos ----*/
+
+.derechos{
+    position: absolute;
+    font-weight: 500;
+    font-size: 15;
+    font-family: system-ui;
+    color: #9c9c9c;
+    top: 350;
+    left: 120;
+}
+
+.terminos{
+    position: absolute;
+    left: 960;
+    top: 350;
+    font-weight: 500;
+    font-size: 15;
+    font-family: system-ui;
+    color: #9c9c9c;
+
+}
+
+.privacidad{
+    position: absolute;
+    left: 1120;
+    top: 350;
+    font-weight: 500;
+    font-size: 15;
+    font-family: system-ui;
+    color: #9c9c9c;
+}
